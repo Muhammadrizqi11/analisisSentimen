@@ -1,5 +1,5 @@
 
-# Analisis Sentimen Komentar YouTube studi kasus video ferry irwandi terhadap Isu Kerusakan Alam Raja Ampat
+# Analisis Sentimen Komentar YouTube Studi Kasus Video Ferry Irwandi Terhadap Isu Kerusakan Alam Raja Ampat
 
 ## 📌 Project Overview
 
